@@ -18,7 +18,7 @@
 
 
 function abc_show_date() {
-    return date("Y-m-d H:i:s");
+    return date("Y-m-d H:i:s") . "This is a very good date";
 }
 
 add_shortcode('abc_show_date', 'abc_show_date');
