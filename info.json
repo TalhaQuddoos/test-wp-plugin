@@ -3,7 +3,7 @@
 	"slug" : "test-plugin",
 	"author" : "<a href='https://rudrastyh.com'>Talha</a>",
 	"author_profile" : "http://profiles.wordpress.org/rudrastyh",
-	"version" : "1.0",
+	"version" : "2.0.5",
 	"download_url" : "https://rudrastyh.com/wp-content/uploads/updater/misha-update-checker.zip",
 	"requires" : "3.0",
 	"tested" : "5.8",
