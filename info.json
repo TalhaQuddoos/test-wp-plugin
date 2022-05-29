@@ -4,7 +4,7 @@
 	"author" : "<a href='https://rudrastyh.com'>Talha</a>",
 	"author_profile" : "http://profiles.wordpress.org/rudrastyh",
 	"version" : "2.0.5",
-	"download_url" : "https://rudrastyh.com/wp-content/uploads/updater/misha-update-checker.zip",
+	"download_url" : "https://github.com/TalhaQuddoos/test-wp-plugin/zipball/main",
 	"requires" : "3.0",
 	"tested" : "5.8",
 	"requires_php" : "5.3",
